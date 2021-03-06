@@ -1,0 +1,2 @@
+# BastanNesneYonelimliProgramlama10-FonksiyonlarinAldigiParametreler
+BastanNesneYonelimliProgramlama10-FonksiyonlarinAldigiParametreler
